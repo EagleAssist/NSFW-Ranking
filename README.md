@@ -12,7 +12,8 @@ Follow these steps to set up and run the NSFW Classifier Demo on your local mach
 Docker: Make sure you have Docker installed on your system. If not, you can download and install it from Docker's official website.
 ## Running Support Classifier with Docker Compose
 Use Docker Compose to start containers for PostgreSQL and RabbitMQ:
-docker-compose up -d
+
+ docker-compose up -d
 ## Running NSFW Classifier
 1.Run Streamlit in the command line:
 
